@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toong86
 - 👀 I’m interested in embeded system C/C++ and Machine Learning
-- 🌱 I’m currently learning Natural Language Processing
-- 💞️ I’m looking to collaborate on project related to debug assistant with Machine Learning
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on project related to block chain (non-work) and debug assistant with Machine Learning (work)
 - 📫 How to reach me : tatt.hee.oong@intel.com
 
 <!---
